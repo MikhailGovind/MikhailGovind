@@ -1,7 +1,7 @@
 # Hey, I'm Mikhail!
 <h3>Game Designer and Developer</h3>
 
-<br>🧑🏽‍🎓**Honours graduate in Digital Arts** from the University of the Witwatersrand<br>
+<br>📚**Honours graduate in Digital Arts** from the University of the Witwatersrand<br>
 I specialize in game design and development with strong C# skills, a passion for interactive storytelling, and 2D & 3D projects ranging from rhythm games to procedural dungeon crawlers<br>
 
 <br>🖊️I'm currently a **Game Design Tutor**<br>
